@@ -3,6 +3,7 @@
 - '웹 3.0(Web 3.0)'의 특징과 과제, '탈중앙화'를 꿈꾸는 미래형 인터넷, https://enterprise.kt.com/bt/dxstory/1083.do
 
 ***
+## 웹 3.0과 콘텐츠 유통의 탈중앙화
 - 웹 3.0과 콘텐츠 유통의 탈중앙화, http://weekly.tta.or.kr/weekly/files/20223919053917_weekly.pdf
 
 3.2 창작자 경제(Creator Economy)  
