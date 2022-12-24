@@ -7,6 +7,9 @@
 웹 3.0 구현을 위한 3가지 '선결 조건 - 신뢰 구축, 데이터 주권, 보상 정책의 마련  
 웹 3.0 생태계 패권 경쟁, 앞으로의 전망은?  
 
+![image](https://user-images.githubusercontent.com/109835677/209429987-c8b49b3a-247e-41fb-8124-1b598c0766f5.png)
+
+
 ***
 ## 웹 3.0과 콘텐츠 유통의 탈중앙화
 - 웹 3.0과 콘텐츠 유통의 탈중앙화, http://weekly.tta.or.kr/weekly/files/20223919053917_weekly.pdf
