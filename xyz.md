@@ -1,6 +1,5 @@
 
 
-- '웹 3.0(Web 3.0)'의 특징과 과제, '탈중앙화'를 꿈꾸는 미래형 인터넷, https://enterprise.kt.com/bt/dxstory/1083.do
 
 ***
 ## 웹 3.0과 콘텐츠 유통의 탈중앙화
@@ -17,16 +16,23 @@
 - 카카오게임즈 자회사인 엑스엘게임즈는 대표작 ‘아키에이지’에 블록체인 기술을 도입한 ‘아이월드’를 우리나라와 중국 등 일부 지역을 제외한 글로벌 시장에 지난 9월 1일 출시하였다. 아키월드는 토지 NFT(Non Fungible Token)와 토크노믹스 경제 생태계를 융합시킨 게임으로 게임 내 토지에 자신의 텃밭과 집을 짓고 수확한 농작물 등 게임 내에서 생산한 결과물을 이용자의소유로 인정하여 실질적인 경제 활동이 가능하도록 한다. 웹 3.0 생태계에서 이용자가 만든 콘텐츠의 거래로 수익을 발생시키는 것은 더 많은 이용자들을 웹 3.0 생태계로 참여시키는 동력이 되며 궁극적으로 C2E(Create-to_Earn) 생태계를 조성하게 될 것이다.
 
 ***
+## 웹 3.0 환경에서의 ‘창작자 경제(Creator Economy)’ 현황과 전망
+- 웹 3.0 환경에서의 ‘창작자 경제(Creator Economy)’ 현황과 전망, https://enterprise.kt.com/bt/P_BT_TI_VW_001.do?bbsId=1174&bbsTP=A
+
+미국의페트리온(Patreon)이나 온리팬즈(OnlyFans), 서브스택(Substack) 같은 기업들은 이용자들의 후원 형태로 창작자 수익을 지원하는 D2C 기반의 비즈니스를 채택 중이다. 아직 완전한 웹3.0 환경이 아니기 때문에 플랫폼이 중개자 역할을 하고는 있지만, 웹 2.0 기반의 플랫폼에 비하면, 이들 플랫폼이 창작자-이용자 사이에 개입하는 경우는 극히 드물다. 플랫폼 수익인 중개 수수료 또는 광고 수익도 미미한 수준이다. 그럼에도 페트리온은 직거래 모델로 창작자-이용자 간의 소통 편의성을 높이면서 2022년 4월 기준, 월간 사용자수 3백만 명 돌파, 약 1억 달러(약 1,230억 원)가 넘는 투자금을 유치하는데 성공했다. 2022년 4월 현재, 페트리온의 기업 가치는 무려 40억 달러로 알려져 있다.
 
 #### 패트리온(Patreon)
 - https://www.patreon.com/, Creativity powered by membership
 - https://namu.wiki/w/Patreon
 
+***
+
 
 ***
 
-- 웹 3.0 환경에서의 ‘창작자 경제(Creator Economy)’ 현황과 전망, https://enterprise.kt.com/bt/P_BT_TI_VW_001.do?bbsId=1174&bbsTP=A
+
 - 창작자 경제 분석 (1) -창작자 경제의 개념과 특성, https://copyright.or.kr/information-materials/trend/the-copyright/viewPress.do?brdctsno=50944&pageIndex=2&brdclasscodeList=&brdctsstatecode=&brdclasscode=02&nationcodeList=&searchTarget=ALL&nationcode=&brdno=35&noticeYn=&etc1=&searchText=&portalcode=04&servicecode=06&searchkeyword=&portalcode04=
 - 웹 3.0, 개인 콘텐츠가 경쟁력이 되는 시대, https://brunch.co.kr/@bommade/34
 - 대중 미디어의 '웹 3.0'화와 탈중앙화, https://brunch.co.kr/@thebeatles/4
 
+- '웹 3.0(Web 3.0)'의 특징과 과제, '탈중앙화'를 꿈꾸는 미래형 인터넷, https://enterprise.kt.com/bt/dxstory/1083.do
