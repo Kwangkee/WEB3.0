@@ -18,6 +18,13 @@
 
 ***
 
+#### 패트리온(Patreon)
+- https://www.patreon.com/, Creativity powered by membership
+- https://namu.wiki/w/Patreon
+
+
+***
+
 - 웹 3.0 환경에서의 ‘창작자 경제(Creator Economy)’ 현황과 전망, https://enterprise.kt.com/bt/P_BT_TI_VW_001.do?bbsId=1174&bbsTP=A
 - 창작자 경제 분석 (1) -창작자 경제의 개념과 특성, https://copyright.or.kr/information-materials/trend/the-copyright/viewPress.do?brdctsno=50944&pageIndex=2&brdclasscodeList=&brdctsstatecode=&brdclasscode=02&nationcodeList=&searchTarget=ALL&nationcode=&brdno=35&noticeYn=&etc1=&searchText=&portalcode=04&servicecode=06&searchkeyword=&portalcode04=
 - 웹 3.0, 개인 콘텐츠가 경쟁력이 되는 시대, https://brunch.co.kr/@bommade/34
