@@ -1,5 +1,10 @@
 
+## Theta
 
+- 탈중앙화 비디오 스트리밍 네트워크 ‘쎄타’(THETA) 집중 분석, https://kr.beincrypto.com/learn-kr/%ED%83%88%EC%A4%91%EC%95%99%ED%99%94-%EB%B9%84%EB%94%94%EC%98%A4-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%8E%84%ED%83%80theta-%EC%A7%91/ 
+- [백서읽기]쎄타퓨엘 코인, 새 메인넷 앞두고 눈길, http://news.bizwatch.co.kr/article/mobile/2022/11/02/0020 
+- 탈중앙 스트리밍 네트워크 '쎄타(THETA)' [블록체인 Web 3.0 리포트], https://www.hankyung.com/finance/article/202202220297g 
+- FedML announces partnership with Theta Network to empower Collaborative Machine Learning for Generative AI and Ad Recommendation, https://www.globenewswire.com/en/news-release/2023/02/16/2610203/0/en/FedML-announces-partnership-with-Theta-Network-to-empower-Collaborative-Machine-Learning-for-Generative-AI-and-Ad-Recommendation.html 
 
 ## Hivemapper
 
