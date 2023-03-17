@@ -27,6 +27,7 @@ https://dashboard.audius.org/#/analytics
 ![image](https://user-images.githubusercontent.com/109835677/225798774-47527457-dae1-4b17-939e-06151ebb2472.png)
 ![image](https://user-images.githubusercontent.com/109835677/225798599-28b019a6-debf-48dc-bf4d-b2b71f5410d0.png)
 
+- Audius(AUDIO)란?, https://talken.io/tokens/AudiusToken/forum/post/339462
 - [SQ|Square] 음악 스트리밍 기업 '타이달'을 인수한 스퀘어의 속내는?, https://www.bestchoisinvest.com/post/__sq2
 
 ## Helium
