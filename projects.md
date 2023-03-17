@@ -3,6 +3,9 @@
 
 - 탈중앙 스트리밍 네트워크 '쎄타(THETA)' [블록체인 Web 3.0 리포트], https://www.hankyung.com/finance/article/202202220297g 
 >- 쎄타 프로토콜의 가장 큰 특징은 기존 콘텐츠 전달 네트워크(CDN)에 P2P(Peer-to-Peer) 캐싱 노드를 적용한 하이브리드 메시 스트리밍(Hybrid Mesh Streaming) 방식으로 비디오 콘텐츠를 전송한다는 점입니다. CDN의 높은 가용성과 P2P의 확장성을 모두 잡겠다는 거죠. 쎄타 프로토콜이 적용한 하이브리드 메시 스트리밍 기술을 활용하면 유튜브, 트위치 등 기존 동영상 스트리밍 플랫폼이 채택한 기존 CDN 방식보다 대역폭 사용량을 40~80% 가량 줄일 수 있기 때문에 수백만 달러 이상의 비용을 절감할 수 있게 됩니다.
+>- 쎄타는 그라운드X, 라인 블록체인 등 블록체인 기업과의 협업 외에도 굵직한 생태계 확장 행보들을 보여주고 있습니다. 구글, 삼성, 소니 등 굵직한 글로벌 대기업들이 기업 검증자 노드로 합류하면서 화제가 되기도 했죠. 기업 검증자 노드들은 쎄타 합의 프로토콜에 따라 트랜잭션의 유효성 검사를 진행하고 토큰 보상을 가져가게 됩니다.
+>- 이 외에도 중국의 글로벌 IT 기업 텐센트게임즈와의 파트너십을 통해 쎄타TV 플랫폼 내 '링 오브 엘리시움' 게임 시청에 토큰 보상 시스템을 도입했으며, 국내 방송사 MBN, CJ 헬로와 하이브리드 메시 스트리밍을 활용한 동영상 분산경제 실험을 진행하는 등 탈중앙 스트리밍 생태계 확장을 위한 행보를 꾸준히 이어나가고 있습니다.
+
 - 탈중앙화 비디오 스트리밍 네트워크 ‘쎄타’(THETA) 집중 분석, https://kr.beincrypto.com/learn-kr/%ED%83%88%EC%A4%91%EC%95%99%ED%99%94-%EB%B9%84%EB%94%94%EC%98%A4-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%8E%84%ED%83%80theta-%EC%A7%91/ 
 - [백서읽기]쎄타퓨엘 코인, 새 메인넷 앞두고 눈길, http://news.bizwatch.co.kr/article/mobile/2022/11/02/0020 
 - FedML announces partnership with Theta Network to empower Collaborative Machine Learning for Generative AI and Ad Recommendation, https://www.globenewswire.com/en/news-release/2023/02/16/2610203/0/en/FedML-announces-partnership-with-Theta-Network-to-empower-Collaborative-Machine-Learning-for-Generative-AI-and-Ad-Recommendation.html 
