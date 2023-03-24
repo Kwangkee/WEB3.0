@@ -7,7 +7,11 @@
 >- 이 외에도 중국의 글로벌 IT 기업 텐센트게임즈와의 파트너십을 통해 쎄타TV 플랫폼 내 '링 오브 엘리시움' 게임 시청에 토큰 보상 시스템을 도입했으며, 국내 방송사 MBN, CJ 헬로와 하이브리드 메시 스트리밍을 활용한 동영상 분산경제 실험을 진행하는 등 탈중앙 스트리밍 생태계 확장을 위한 행보를 꾸준히 이어나가고 있습니다.
 
 - 탈중앙화 비디오 스트리밍 네트워크 ‘쎄타’(THETA) 집중 분석, https://kr.beincrypto.com/learn-kr/%ED%83%88%EC%A4%91%EC%95%99%ED%99%94-%EB%B9%84%EB%94%94%EC%98%A4-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%8E%84%ED%83%80theta-%EC%A7%91/ 
+
 - [백서읽기]쎄타퓨엘 코인, 새 메인넷 앞두고 눈길, http://news.bizwatch.co.kr/article/mobile/2022/11/02/0020 
+>- 일반적으로 동영상 플랫폼은 서버 규모를 정하는 데 어려움을 겪는다. 월드컵이나 인기작품 출시 등 동영상 이용자들이 급증하는 때 끊김없이 동영상 서비스를 제공하기 위해선 넉넉한 서버를 보유해야 한다. 하지만 서버 비용이 만만치 않아 수요가 많지 않을 때엔 서버 규모를 줄이는 유연한 운영이 필요하다. 때문에 많은 동영상 플랫폼은 서버 확보에 많은 비용을 들이거나, 클라우드 서비스를 이용해 상황에 맞게 서버 규모를 유동적으로 바꾼다.
+>- 쎄타는 이런 문제를 해결하기 위해 세계의 많은 컴퓨터 보유자들이 상황에 맞게 자신의 컴퓨터에 남아있는 여유 공간을 빌려주는 방식을 도입했다. 서버로 참여할 의사가 있는 '캐싱 노드'들을 미리 확보해, 많은 서버가 필요할 때 이들의 컴퓨터를 활용하는 방식이다. 여유공간을 빌려준 이들은 대가로 쎄타퓨엘을 받을 수 있다.
+
 - FedML announces partnership with Theta Network to empower Collaborative Machine Learning for Generative AI and Ad Recommendation, https://www.globenewswire.com/en/news-release/2023/02/16/2610203/0/en/FedML-announces-partnership-with-Theta-Network-to-empower-Collaborative-Machine-Learning-for-Generative-AI-and-Ad-Recommendation.html 
 >- 전 세계 수만 개의 분산형 노드로 운영되는 세타의 엣지 네트워크는 협업 머신 러닝 및 AI 사용 사례에 필요한 분산 컴퓨팅 유형을 위한 완벽한 기반이 됩니다. 이러한 에지 노드의 초과 연산 능력, 스토리지, 대역폭을 활용함으로써 FedML은 본질적으로 개인정보를 보호하고 지속적으로 개선되는 방식으로 결합된 데이터, 모델, 컴퓨팅 리소스에 대한 대규모 협업을 통해 머신러닝과 AI의 획기적인 발전을 가능하게 할 수 있습니다.
 
