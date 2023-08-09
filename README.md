@@ -6,7 +6,7 @@
 ***
 
 - [NRF] 새로운 데이터 경제 시대에 블록체인 기술이 가지는 의미, https://webzine.nrf.re.kr/nrf_2207/sub_2_02_1.html
-- 웹3.0시대 블록체인 기술이 마이데이터와 인공지능 생태계에 미친 영향과 시사점 [이슈리포트 2022-7호], https://www.nrf.re.kr/cms/board/library/view?menu_no=419&o_menu_no=&page=&nts_no=180197&nts_cat=&search_type=NTS_TITLE&search_keyword=&nts_cat=
+- [NRF] 웹3.0시대 블록체인 기술이 마이데이터와 인공지능 생태계에 미친 영향과 시사점 [이슈리포트 2022-7호], https://www.nrf.re.kr/cms/board/library/view?menu_no=419&o_menu_no=&page=&nts_no=180197
 
 ```
 Ⅳ. 블록체인과 인공지능
